@@ -1,0 +1,10 @@
+id: P33-C
+repository: aci-gt-p33-control
+visibility: public
+stage: P3
+rule: P3.3
+kind: control
+atomic_variable: "装载路径无 guard"
+expected_status: REACHABLE
+setup: AUTO_FILES
+configuration_state: COMPLETE
